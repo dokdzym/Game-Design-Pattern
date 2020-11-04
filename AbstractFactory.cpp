@@ -10,6 +10,7 @@ using namespace std;
 
 * What's the advantage of this pattern?
 *		We seperate products and client.
+
 * What's the disadvantage of this pattern?
 *	    We can hardly add a new color or a new kind of animal.
 */
