@@ -91,7 +91,7 @@ void CreatedAndAttack(AbstractFactory* factory) {
 	b->attack();
 
 	Cat* c = factory->makeCat();
-	b->attack();
+	c->attack();
 }
 int main() {
 	YellowFactory* f = new YellowFactory();
